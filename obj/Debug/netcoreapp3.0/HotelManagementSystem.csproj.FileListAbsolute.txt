@@ -1,0 +1,11 @@
+C:\Users\Abdurrahman\source\repos\HotelManagementSystem\bin\Debug\netcoreapp3.0\HotelManagementSystem.exe
+C:\Users\Abdurrahman\source\repos\HotelManagementSystem\bin\Debug\netcoreapp3.0\HotelManagementSystem.deps.json
+C:\Users\Abdurrahman\source\repos\HotelManagementSystem\bin\Debug\netcoreapp3.0\HotelManagementSystem.runtimeconfig.json
+C:\Users\Abdurrahman\source\repos\HotelManagementSystem\bin\Debug\netcoreapp3.0\HotelManagementSystem.runtimeconfig.dev.json
+C:\Users\Abdurrahman\source\repos\HotelManagementSystem\bin\Debug\netcoreapp3.0\HotelManagementSystem.dll
+C:\Users\Abdurrahman\source\repos\HotelManagementSystem\bin\Debug\netcoreapp3.0\HotelManagementSystem.pdb
+C:\Users\Abdurrahman\source\repos\HotelManagementSystem\obj\Debug\netcoreapp3.0\HotelManagementSystem.csprojAssemblyReference.cache
+C:\Users\Abdurrahman\source\repos\HotelManagementSystem\obj\Debug\netcoreapp3.0\HotelManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Abdurrahman\source\repos\HotelManagementSystem\obj\Debug\netcoreapp3.0\HotelManagementSystem.AssemblyInfo.cs
+C:\Users\Abdurrahman\source\repos\HotelManagementSystem\obj\Debug\netcoreapp3.0\HotelManagementSystem.dll
+C:\Users\Abdurrahman\source\repos\HotelManagementSystem\obj\Debug\netcoreapp3.0\HotelManagementSystem.pdb
